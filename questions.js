@@ -22,7 +22,7 @@ questions =
         [//Authority
             "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.",
             "Authority figures, if morally correct, are a good thing for society.",
-            "Strength is necessary for any government to succeed.",
+            "A certain degree of coercion is a necessary evil needed for the functioning of any society.",
             "Only the government can fairly and effectively regulate organisations.",
             "Society requires structure and bureaucracy in order to function.",
             "Mandatory IDs should be used to ensure public safety.",
