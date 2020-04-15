@@ -1,61 +1,61 @@
 questions = 
     [[//Left-Right`
         [//Right
-            "Freedom of business is the best practical way a society can prosper.",
-            "Charity is a better way of helping those in need than social welfare.",
-            "Wages are always fair, as employers know best what a worker's labour is worth.",
-            "It is \"human nature\" to be greedy.",
-            "\"Exploitation\" is an outdated term, as the struggles of 1800s capitalism doesn't exist anymore.",
-            "Communism is an ideal that can never work in practice.",
-            "Taxation of the wealthy is a bad idea, society would be better off without it.",
-            "The harder you work, the more you progress up the social ladder."
+            "If you don't wanna be poor, just stop being poor",
+            "We need to give more money to Israel",
+            "Just learn to code, bro",
+            "Greed is good",
+            "The child can consent",
+            "Unrestrained capitalism is the best",
+            "Slavery and child labor are OK as long as they're 'consensual' ",
+            "Recreational McNukes and genetically engineered cat girls are an unalienable human right"
         ],
         [//Left
-            "Organisations and corporations cannot be trusted and need regulating by the government.",
-            "A government that provides for everyone is an inherently good idea.",
-            "The current welfare system should be expanded to further combat inequality.",
-            "Land should not be a commodity to be bought and sold.",
-            "All industry and the bank should be nationalised.",
-            "Class is the primary division of society.",
-            "Economic inequality is too high in the world."
+            "Stalin did nothing wrong",
+            "Milkshake is the best weapon in the fight against fascism",
+            "Every failure of communism is the CIA's fault",
+            "Children running lemonade stands are kulaks and enemies of the people",
+            "USSR's anthem is the best song in the world",
+            "Children should be raised communally, by weed smoking hippies",
+            "I share my toothbrush with the community"
         ]],[//Authority-Liberty`
         [//Authority
-            "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.",
-            "Authority figures, if morally correct, are a good thing for society.",
-            "Strength is necessary for any government to succeed.",
-            "Only the government can fairly and effectively regulate organisations.",
-            "Society requires structure and bureaucracy in order to function.",
-            "Mandatory IDs should be used to ensure public safety.",
-            "In times of crisis, safety becomes more important than civil liberties.",
-            "If you have nothing to hide, you have nothing to fear."
+            "Kill those who disagree",
+            "1984 wasn't dystopian fiction but a good instruction manual",
+            "My favourite cartoon is Winnie the Pooh",
+            "I'm a manly chad because there's nothing as manly as submitting oneself to a manly, virile, powerful absolute leader",
+            "Do you have a loicence for that permit m8?",
+            "Problems caused by the government should be solved by giving said government absolute power",
+            "North Korea = Best Korea",
+            "War is Peace, Freedom is Slavery, Ignorance is Strenght"
         ],
         [//Liberty
-            "The government should be less involved in the day to day life of its citizens.",
-            "Without democracy, a society is nothing.",
-            "Jury nullification should be legal.",
-            "The smaller the government, the freer the people.",
-            "The government should, at most, provide emergency services and law enforcement.",
-            "The police was not made to protect the people, but to uphold the status-quo by force.",
-            "State schools are a bad idea because our state shouldn't be influencing our children."
+            "Legalize crack",
+            "Men should be able to wage their own wars",
+            "A property owner should be able to nuke the child slaves starving on his lawn because they broke the NAP",
+            "No laws means no crime",
+            "Wdym selling your kids on darkweb is wrong?",
+            "Furry yiff snuff porn is a human right",
+            "Be gay, do crime"
         ]],[//Progressive-Conservative
         [//Progressive
-            "Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",
-            "An individual’s body is their own property, and they should be able to do anything they desire to it.",
-            "A person should be able to worship whomever or whatever they want.",
-            "Nudism is perfectly natural.",
-            "Animals deserve certain universal rights.",
-            "Gender is a social construct, not a natural state of affairs.",
-            "Laws based on cultural values, rather than ethical ones, aren’t justice.",
-            "Autonomy of body extends even to minors, the mentally ill, and serious criminals."
+            "Have you checked your priviledge already, sweaty?",
+            "I'm an anti-racist, but white people are evil",
+            "My wife's boyfriend bought me a Nintendo Switch and it's EPIC!",
+            "Tyrone fucks my wife every night",
+            "I eat Impossible Burgers on a regular basis",
+            "I have a 4 year old trans, otherkin, drag child",
+            "My cat is vegan",
+            "I engage in trans-pansexual furry BSDM orgies every night"
         ],
         [//Conservative
-            "Homosexuality is against my values.",
-            "Transgender individuals should not be able to adopt children.",
-            "Drugs are harmful and should be banned.",
-            "The death penalty should exist for certain crimes.",
-            "Victimless crimes should still be punished.",
-            "One cannot be moral without religion.",
-            "Parents should hold absolute power over their children, as they are older and more experienced.",
-            "Multiculturalism is bad."
+            "WHEN U KILL NIGS                                                           LMAO BOTTOM TEXT",
+            "The Holocaust didn't happen but we'll make it happen!",
+            "Degenerates should hang, also, I'm a trans strasserist catgirl UwU",
+            "I'm an EPIC GAMER and BASED AND REDPILLED GIGACHAD",
+            "Women should go back to the kitchen and become tradwifes, also, Jews are the reason why I fap to shota traps 6 hrs a day",
+            "God loves everyone, except the kikes, faggots, niggers, trannies...",
+            "I watch anime",
+            "This subreddit was banned for violations of our Content Policy."
         ]
     ]];
