@@ -3,11 +3,11 @@ questions =
         [//Right
             "Freedom of business is the best practical way a society can prosper.",
             "Charity is a better way of helping those in need than social welfare.",
-            "Wages should be preferably determined by the free market and contracts between employees and employers,not governments",
-            "It is \"human nature\" to be greedy.",
-            "\"Exploitation\" is an outdated term, as the struggles of 1800s capitalism doesn't exist anymore.",
+            "The government should not set a minimum wage",
+            "It is \"human nature\" to be greedy, thus our social system should take that reality into account.",
+            "\"Exploitation\" in developed countries is an outdated term, as the struggles of 1800s capitalism doesn't exist anymore there.",
             "Communism is an ideal that can never work in practice.",
-            "Taxation of the wealthy is a bad idea, society would be better off without it.",
+            "Alternative forms of taxation, such as a land tax, sales tax or complete tax abolition are preferable to having an income tax",
             "The harder you work, the more you progress up the social ladder."
         ],
         [//Left
@@ -49,12 +49,12 @@ questions =
             "Autonomy of body extends even to minors, the mentally ill, and serious criminals."
         ],
         [//Conservative
-            "Only heterosexual marriage should be legal.",
+            "Only heterosexual marriage should be recognised.",
             "LGBT individuals should not be able to adopt children.",
             "Drug posession should be a criminal offense.",
             "Traditional values and culture should be preserved.",
             "Victimless crimes should still be punished.",
-            "One cannot be moral without religion.",
+            "One cannot be moral without being religious.",
             "Parents should hold near-absolute power (excepting abuse) over their children, as they are older and more experienced.",
             "Multiculturalism is bad."
         ]
