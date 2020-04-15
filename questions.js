@@ -31,7 +31,7 @@ questions =
         ],
         [//Liberty
             "The government should be less involved in the day to day life of its citizens.",
-            "Without democracy a society is nothing.",
+            "A democratic society is generally preferable to an autocratic one.",
             "Jury nullification should be legal.",
             "The smaller the government, the freer the people.",
             "The government should, at most, provide emergency services and law enforcement.",
