@@ -15,7 +15,7 @@ questions =
             "A government that provides for everyone is an inherently good idea.",
             "The current welfare system should be expanded to further combat inequality.",
             "Land should not be a commodity to be bought and sold.",
-            "All industry and the bank should be nationalised or held in common ownership by the people.",
+            "All industry and the bank should be nationalised or held in collective ownership.",
             "Class is the primary division of society.",
             "Economic inequality is too high in the world."
         ]],[//Authority-Liberty`
