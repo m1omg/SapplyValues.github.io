@@ -28,6 +28,7 @@ questions =
             "Mandatory IDs should be used to ensure public safety.",
             "In times of crisis, safety becomes more important than civil liberties.",
             "If you have nothing to hide, you have nothing to fear."
+            "The death penalty should exist for certain crimes.",
         ],
         [//Liberty
             "The government should be less involved in the day to day life of its citizens.",
@@ -52,7 +53,6 @@ questions =
             "Homosexuality is against my values.",
             "Transgender individuals should not be able to adopt children.",
             "Drugs are harmful and should be banned.",
-            "The death penalty should exist for certain crimes.",
             "Victimless crimes should still be punished.",
             "One cannot be moral without religion.",
             "Parents should hold absolute power over their children, as they are older and more experienced.",
