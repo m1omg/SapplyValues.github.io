@@ -2,7 +2,7 @@ questions =
     [[//Left-Right`
         [//Right
             "If you don't wanna be poor, just stop being poor",
-            "We need to give more money to Israel",
+            "We need to give more money to Israel, our greatest ally",
             "Just learn to code, bro",
             "I watch PragerU every night",
             "The child can consent",
@@ -54,7 +54,7 @@ questions =
             "Degenerates should hang, also, I'm a trans strasserist catgirl UwU",
             "I'm an EPIC GAMER and BASED AND REDPILLED GIGACHAD",
             "Women should go back to the kitchen and become tradwifes, also, Jews are the reason why I fap to shota traps 6 hrs a day",
-            "God loves everyone, except the kikes, faggots, niggers, trannies...",
+            "Jet fuel cannot melt wooden doors",
             "I watch anime",
             "This subreddit was banned for violations of our Content Policy."
         ]
