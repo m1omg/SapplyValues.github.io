@@ -22,7 +22,7 @@ questions =
         [//Authority
             "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.",
             "Authority figures, if morally correct, are a good thing for society.",
-            "Strength is necessary for any government to succeed.",
+            "A significant degree of coercion is a necessary evil for a society.",
             "Only the government can fairly and effectively regulate organisations.",
             "Society requires structure and bureaucracy in order to function.",
             "Mandatory IDs should be used to ensure public safety.",
@@ -31,7 +31,7 @@ questions =
         ],
         [//Liberty
             "The government should be less involved in the day to day life of its citizens.",
-            "Without democracy, a society is nothing.",
+            "A democratic and/or libertarian society is generally preferable to an authoritarian one.",
             "Jury nullification should be legal.",
             "The smaller the government, the freer the people.",
             "The government should, at most, provide emergency services and law enforcement.",
@@ -51,7 +51,7 @@ questions =
         [//Conservative
             "Homosexuality is against my values.",
             "LGBT individuals should not be able to adopt children.",
-            "Drugs are should be banned.",
+            "Drug posession should be a criminal offense.",
             "The death penalty should exist for certain crimes.",
             "Victimless crimes should still be punished.",
             "One cannot be moral without religion.",
