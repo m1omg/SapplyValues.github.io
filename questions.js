@@ -13,19 +13,19 @@ questions =
         [//Left
             "An economy based on private property is not the best way to run a society,",
             "A government that provides for everyone is an inherently good idea.",
-            "The current welfare system should be expanded to further combat inequality.",
+            "Banks shouldn't be private, but state/publically owned or replaced by credit unions",
             "Land should not be a commodity to be bought and sold.",
-            "All industry and the bank should be nationalised or held in collective ownership.",
+            "All productive property should be nationalised or held in collective ownership.",
             "Class is the primary division of society.",
-            "Economic inequality is too high in the world."
+            "Economic inequality is a major societal problem."
         ]],[//Authority-Liberty`
         [//Authority
             "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.",
-            "Authority figures, if morally correct, are a good thing for society.",
+            "Repression of dissent is justifiable",
             "A significant degree of coercion is a necessary evil for a society.",
             "Only the government can fairly and effectively regulate organisations.",
-            "Society requires structure and bureaucracy in order to function.",
-            "Mandatory IDs should be used to ensure public safety.",
+            "Society requires a strong bureaucracy in order to function.",
+            "The death penalty should exist for certain crimes",
             "In times of crisis, safety becomes more important than civil liberties.",
             "If you have nothing to hide, you have nothing to fear."
         ],
@@ -34,8 +34,8 @@ questions =
             "A democratic and/or libertarian society is generally preferable to an authoritarian one.",
             "Jury nullification should be legal.",
             "The smaller the government, the freer the people.",
-            "The government should, at most, provide emergency services and law enforcement.",
-            "The police was not made to protect the people, but to uphold the status-quo by force.",
+            "Most services currently provided by the government should be provided by the community or the free market",
+            "The police as it currently exists was not made to protect the people, but to uphold the status-quo by force.",
             "State schools are a bad idea because our state shouldn't be influencing our children."
         ]],[//Progressive-Conservative
         [//Progressive
@@ -49,13 +49,13 @@ questions =
             "Autonomy of body extends even to minors, the mentally ill, and serious criminals."
         ],
         [//Conservative
-            "Homosexuality is against my values.",
+            "Only heterosexual marriage should be legal.",
             "LGBT individuals should not be able to adopt children.",
             "Drug posession should be a criminal offense.",
-            "The death penalty should exist for certain crimes.",
+            "Traditional values and culture should be preserved.",
             "Victimless crimes should still be punished.",
             "One cannot be moral without religion.",
-            "Parents should hold absolute power over their children, as they are older and more experienced.",
+            "Parents should hold near-absolute power (excepting abuse) over their children, as they are older and more experienced.",
             "Multiculturalism is bad."
         ]
     ]];
