@@ -1,13 +1,13 @@
 questions = 
     [[//Left-Right`
         [//Right
-            "Freedom of big business is the best practical way a society can prosper.",
+            "Freedom of private businesses is the best practical way a society can prosper.",
             "Charity is a better way of helping those in need than social welfare.",
-            "Wages are always fair, as big business knows best what a worker's labour is worth.",
+            "Wages should be set by employee/employer contracts and the free market rather than governments.",
             "It is \"human nature\" to be greedy.",
             "\"Exploitation\" is an outdated term, as the struggles of 1800s capitalism doesn't exist anymore.",
             "Communism is an ideal that can never work in practice.",
-            "Taxation of the wealthy is a bad idea, society would be better off without it.",
+            "A society should strive for as low a tax rate as possible",
             "The harder you work, the more you progress up the social ladder."
         ],
         [//Left
@@ -53,7 +53,7 @@ questions =
             "Transgender individuals should not be able to adopt children.",
             "Drugs are harmful and should be banned.",
             "The death penalty should exist for certain crimes.",
-            "Non-violent crimes should still be punished.",
+            "Victimless crimes should still be punished.",
             "One cannot be moral without religion.",
             "Parents should hold absolute power over their children, as they are older and more experienced.",
             "Multiculturalism is bad."
