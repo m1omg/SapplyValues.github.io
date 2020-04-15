@@ -32,14 +32,14 @@ questions =
         [//Liberty
             "The government should be less involved in the day to day life of its citizens.",
             "A democratic and/or libertarian society is generally preferable to an authoritarian one.",
-            "Jury nullification should be legal.",
-            "The smaller the government, the freer the people.",
+            "Educating people so they can make better decisions for themselves is preferable to enforcing them by strict laws",
+            "The state should be abolished",
             "Most services currently provided by the government should be provided by the community or the free market",
             "The police as it currently exists was not made to protect the people, but to uphold the status-quo by force.",
-            "State schools are a bad idea because our state shouldn't be influencing our children."
+            "State schools and state owned media are a bad idea because the state can use them to push its own agenda"
         ]],[//Progressive-Conservative
         [//Progressive
-            "Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",
+            "Two individuals above the age of consent should be able to do whatever they want with each other if they agree to it, even if it makes me uncomfortable.",
             "An individual’s body is their own property, and they should be able to do anything they desire to it.",
             "A person should be able to worship whomever or whatever they want.",
             "Nudism is perfectly natural.",
