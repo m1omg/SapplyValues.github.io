@@ -20,8 +20,7 @@ questions =
             "Economic inequality is too high in the world."
         ]],[//Authority-Liberty`
         [//Authority
-            "Sometimes it is right that the government may spy on its citizens, to combat extremists and terrorists.",
-            "Authority figures, if morally correct, are a good thing for society.",
+            "Sometimes it is right that the government may spy on its citizens, to combat extremists and terrorists. ",
             "Strength is necessary for any government to succeed.",
             "Only the government can fairly and effectively regulate organisations.",
             "Society requires structure and bureaucracy in order to function.",
@@ -57,5 +56,6 @@ questions =
             "One cannot be moral without religion.",
             "Parents should hold absolute power over their children, as they are older and more experienced.",
             "Multiculturalism is bad."
+            "Authority figures, if morally correct, are a good thing for society.",
         ]
     ]];
