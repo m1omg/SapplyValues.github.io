@@ -21,7 +21,7 @@ questions =
         ]],[//Authority-Liberty`
         [//Authority
             "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.",
-            "Repression of dissent is justifiable",
+            "Repression of nonviolent dissent is justifiable",
             "A significant degree of coercion is a necessary evil for a society.",
             "Only the government can fairly and effectively regulate organisations.",
             "Society requires a strong bureaucracy in order to function.",
